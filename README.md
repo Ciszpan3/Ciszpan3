@@ -4,7 +4,7 @@ React Developer focused on building modern web applications with React, TypeScri
 
 ## About me
 
-I enjoy turning ideas into practical products with clear interfaces and reliable integrations. I understand the application flow from the frontend through REST APIs to databases, and I keep developing my backend and software architecture skills.
+I am at the beginning of my professional career and still developing my skills and knowledge. I am ambitious, motivated, and always willing to learn. When I face a challenge, I do my best to understand the problem and find an effective solution. I am currently looking for my first opportunity to gain experience, grow professionally, and contribute to a team.
 
 ## What I work with
 
@@ -34,6 +34,11 @@ Incident management application for registering alerts, tracking status and prio
 
 **Tech:** React, TypeScript, Node.js, Express, React Router, REST API
 
+## A few milestones
+
+HackNation finalist with an official distinction from KG PSP for the firefighter digital dogtag prototype.
+2nd and 3rd place finishes at BKIHack events with team projects combining web, AI and computer vision.
+
 ## Contact
 
-I'm open to discussing web development, collaborative projects, and new opportunities. You can find my work and reach me through [GitHub](https://github.com/Ciszpan3).
+damian.ciszak07@gmail.com
