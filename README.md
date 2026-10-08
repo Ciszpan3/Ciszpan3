@@ -36,8 +36,8 @@ Incident management application for registering alerts, tracking status and prio
 
 ## A few milestones
 
-HackYeah 2025 finalist with an official distinction from KG PSP for the firefighter digital dogtag prototype.
-2nd and 3rd place finishes at BKIHack events with team projects combining web, AI and computer vision.
+- HackYeah 2025 finalist with an official distinction from KG PSP for the firefighter digital dogtag prototype.
+- 2nd and 3rd place finishes at BKIHack events with team projects combining web, AI and computer vision.
 
 ## Contact
 
