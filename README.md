@@ -30,14 +30,20 @@ Appointment management application for a hair salon, with customer records and d
 
 ### [IncidentFlow AI](https://github.com/Ciszpan3/Incidentflow-ai)
 
-Incident management application for registering alerts, tracking status and priority, and documenting response work. Planned AI features will summarize incident data and help find relevant recovery procedures.
+Incident management application for registering alerts, tracking status and priority, and documenting response work.
 
 **Tech:** React, TypeScript, Node.js, Express, React Router, REST API
+
+### [AiMailAssistant](https://github.com/Ciszpan3/AiMailAssistant)
+
+Mail Assistant is a desktop app I built to help my parents manage email more independently—from finding messages and documents to understanding instructions and preparing safe replies.
+
+**Tech:** Python, PySide6 (Qt), Ollama (qwen2.5:3b, embeddinggemma:300m), IMAP/SMTP, SQLite, Windows DPAPI, WIA, Qt PDF
 
 ## A few milestones
 
 - HackYeah 2025 finalist with an official distinction from KG PSP for the firefighter digital dogtag prototype.
-- 2nd and 3rd place finishes at BKIHack events with team projects combining web, AI and computer vision.
+- 2nd place finish at BKIHack events with team projects combining web, AI and computer vision.
 
 ## Contact
 
